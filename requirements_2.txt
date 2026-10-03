@@ -1,0 +1,12 @@
+google-genai>=0.1.0
+opencv-python>=4.9.0
+SpeechRecognition>=3.10.1
+pyttsx3>=2.90
+Pillow>=10.2.0
+python-dotenv>=1.0.1
+PyAudio>=0.2.14
+psutil>=5.9.8
+pyautogui>=0.9.54
+mss>=9.0.1
+pynput>=1.7.6
+pycaw>=2.0.1; platform_system=='Windows'
